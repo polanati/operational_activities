@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>Biz Rush two</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 10:39:38</sys_created_on>
+        <sys_id>6d05a9b42f2701106739dcb6f699b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Biz Rush two</sys_name>
+        <sys_package display_value="Operational Activities" source="x_344442_operation">d52365782fe301106739dcb6f699b699</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Operational Activities">d52365782fe301106739dcb6f699b699</sys_scope>
+        <sys_update_name>sys_template_6d05a9b42f2701106739dcb6f699b6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 10:39:38</sys_updated_on>
+        <table>u_operational_task</table>
+        <template>short_description=Short Desp 2^description=Desp 2^assignment_group=d625dccec0a8016700a222a0f7900d06^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

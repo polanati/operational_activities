@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_template">
+    <sysauto_template action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <name>Scheduled Generation based on Biz Rush two</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="CET Time Zone User">a89705d62f2201106739dcb6f699b64e</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2022-05-16 10:39:50</run_start>
+        <run_time>1970-01-01 07:50:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>sysauto_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 10:40:02</sys_created_on>
+        <sys_id>1015e9f42f2701106739dcb6f699b652</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Scheduled Generation based on Biz Rush two</sys_name>
+        <sys_package display_value="Operational Activities" source="x_344442_operation">d52365782fe301106739dcb6f699b699</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Operational Activities">d52365782fe301106739dcb6f699b699</sys_scope>
+        <sys_update_name>sysauto_template_1015e9f42f2701106739dcb6f699b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-17 08:35:15</sys_updated_on>
+        <template display_value="Biz Rush two">6d05a9b42f2701106739dcb6f699b6b8</template>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_template>
+</record_update>
